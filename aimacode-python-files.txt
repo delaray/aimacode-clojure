@@ -1,0 +1,25 @@
+c:\aimacode\aima-python>dir *.py
+dir *.py
+ Volume in drive C is Windows
+ Volume Serial Number is 88DF-1791
+
+ Directory of c:\aimacode\aima-python
+
+02/09/2018  01:56 PM            34,698 agents.py
+02/09/2018  01:56 PM            28,000 csp.py
+02/09/2018  01:56 PM            11,821 games.py
+02/09/2018  01:56 PM             5,733 ipyviews.py
+02/09/2018  01:56 PM            13,064 knowledge.py
+02/09/2018  01:56 PM            46,331 learning.py
+02/09/2018  01:56 PM            37,385 logic.py
+02/09/2018  01:56 PM             7,339 mdp.py
+02/09/2018  01:56 PM            21,720 nlp.py
+02/09/2018  01:56 PM            34,298 notebook.py
+02/09/2018  01:56 PM            33,115 planning.py
+02/09/2018  01:56 PM            25,623 probability.py
+02/09/2018  01:56 PM             7,303 rl.py
+02/09/2018  01:56 PM            52,294 search.py
+02/09/2018  01:56 PM            15,496 text.py
+02/09/2018  01:56 PM            23,568 utils.py
+              16 File(s)        397,788 bytes
+
